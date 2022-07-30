@@ -1,6 +1,6 @@
-#19BEC4031 
-#DHANAVEL K
-#SQL SOLUTIONS
+#19BEC4001
+#AAKASH R
+#SQL ANSWER
 
 create database test;
 use test;
